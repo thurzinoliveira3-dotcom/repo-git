@@ -1,5 +1,5 @@
 
 export const home = () => {
-    console log("alteracao do dev numero 2")
+    console log("alteracao do dev numero 4")
     return "tela home"
 }
